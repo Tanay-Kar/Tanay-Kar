@@ -23,7 +23,7 @@ Hi 👋 I'm **Tanay Kar**, a Full Stack Developer with a flair for uniting Pytho
 - 🔭 I’m currently working on [Phi](https://github.com/Tanay-Kar/Phi)  
   
 
-- 🌱 I’m currently learning Parsing Algorithms  
+- 🌱 I’m currently learning Compilor Design 
   
 
 - ❓ Ask me about anything related to GUI designing, Abstraction and Algorithms  
