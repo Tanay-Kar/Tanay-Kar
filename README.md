@@ -87,11 +87,11 @@ Hi 👋 I'm **Tanay Kar**, a Full Stack Developer with a flair for uniting Pytho
 ## Github Stats  
 <table><tr><td valign="top">
 
-<img src="https://github-readme-stats.vercel.app/api?username=tanay-kar&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
+<img src="https://github-readme-stats.vercel.app/api?username=tanay-kar&show_icons=true&count_private=true&hide_border=true&theme=dark" align="left" style="width: 100%" />
 
 </td><td valign="top">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanay-kar&hide_border=true&layout=compact" align="left" style="width: 100%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanay-kar&hide_border=true&layout=compact&theme=dark" align="left" style="width: 100%" />
 
 </td></tr></table>  
 
