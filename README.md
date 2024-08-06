@@ -6,7 +6,7 @@
 </a>
   
 
-
+https://1drv.ms/p/s!AvXu77iib-qtgTrP_GOu2n7qFAlV
 
 ### Glad to see you here!  
 Hi 👋 I'm **Tanay Kar**, a Full Stack Developer with a flair for uniting Python backends and captivating front-end designs. My expertise spans across the entire tech spectrum, allowing me to craft client-facing apps and websites with a touch of cutting-edge backend wizardry.
