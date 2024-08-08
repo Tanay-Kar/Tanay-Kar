@@ -5,8 +5,7 @@
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
   
-
-[https://1drv.ms/p/s!AvXu77iib-qtgTrP_GOu2n7qFAlV](https://1drv.ms/p/s!AvXu77iib-qtgTrDgS4lMDvhEvf4)
+https://1drv.ms/p/s!AvXu77iib-qtgURZx0B0P-rSpA28?e=Ao8Ikq
 
 ### Glad to see you here!  
 Hi 👋 I'm **Tanay Kar**, a Full Stack Developer with a flair for uniting Python backends and captivating front-end designs. My expertise spans across the entire tech spectrum, allowing me to craft client-facing apps and websites with a touch of cutting-edge backend wizardry.
