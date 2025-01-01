@@ -4,7 +4,12 @@
 <a href="https://github.com/tanay-kar" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
+
+<a href="https://discord.com/users/1054732125326286878" target="_blank">
+<img src=https://img.shields.io/badge/Discord-%235865F2.svg?&style=for-the-badge&&logo=discord&logoColor=white alt=github style="margin-bottom: 5px;" />
+</a>
   
+
 
 ### Glad to see you here!  
 Hi 👋 I'm **Tanay Kar**, a Full Stack Developer with a flair for uniting Python backends and captivating front-end designs. My expertise spans across the entire tech spectrum, allowing me to craft client-facing apps and websites with a touch of cutting-edge backend wizardry.
