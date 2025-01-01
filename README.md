@@ -19,23 +19,6 @@ Hi 👋 I'm **Tanay Kar**, a Full Stack Developer with a flair for uniting Pytho
 
 <br/>  
 
-
-## Rapidfire  
-
-
-- 🔭 I’m currently working on [Phi](https://github.com/Tanay-Kar/Phi)  
-  
-
-- 🌱 I’m currently learning Compiler Design 
-  
-
-- ❓ Ask me about anything related to GUI designing, Abstraction and Algorithms  
-  
-
-- ⚡ Fun fact: Beyond code, I'm an artist at heart, turning ideas into both digital and visual masterpieces.  
-
-<br/>  
-
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)  
   
 
