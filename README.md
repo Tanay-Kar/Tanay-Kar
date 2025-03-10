@@ -12,9 +12,7 @@
 
 
 ### Glad to see you here!  
-Hi 👋 I'm **Tanay Kar**, a Full Stack Developer with a flair for uniting Python backends and captivating front-end designs. My expertise spans across the entire tech spectrum, allowing me to craft client-facing apps and websites with a touch of cutting-edge backend wizardry.
-
-💼 With a focus on Python, GUI, front-end, and more, I'm a versatile creator. I excel in crafting powerful backends that seamlessly handle the workload for your apps. I specialize in designing systems that blend elegance and efficiency – lightweight yet potent, distributed yet synchronized. Notable projects like "WebDes," a real-time HTML editor, "YTDL," a YouTube downloader, and the iconic "Pong" game showcase my dedication to innovation and practicality.  
+Hi 👋 I'm **Tanay Kar**, a Full Stack Developer with a flair for uniting Python backends and captivating front-end designs. My expertise spans across the entire tech spectrum, allowing me to craft client-facing apps and websites with a touch of cutting-edge backend wizardry. 
   
 
 <br/>  
